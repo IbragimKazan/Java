@@ -1,3 +1,4 @@
 print ("java welcome")
 print ("hello my frend")
 print("Hello world")
+print("Hello my dear friend")
