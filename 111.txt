@@ -1,2 +1,3 @@
 print ("java welcome")
 print ("hello my frend")
+print("Hello world")
