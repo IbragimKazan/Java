@@ -1,2 +1,4 @@
 print("goodbye")
 print("natural goodbue")
+print("selem dustym")
+print("sau bul")
