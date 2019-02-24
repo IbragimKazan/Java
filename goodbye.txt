@@ -1,2 +1,4 @@
-print("goodbye")
-print("natural goodbue")
+print("goodbye");
+print("natural goodbue");
+PRINT("DOSVIDOS");
+PRINT("POKA");
