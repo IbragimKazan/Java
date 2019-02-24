@@ -2,3 +2,6 @@ print("goodbye");
 print("natural goodbue");
 PRINT("DOSVIDOS");
 PRINT("POKA");
+print("selem dustym");
+print("sau bul");
+
