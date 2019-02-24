@@ -1,7 +1,7 @@
-print ("java welcome")
-print ("hello my frend")
-print("Hello world")
-print("Hello my dear friend")
-PRINT("HELLO HELLO")
-PRINT("HELLO HELLO HELLO")
-PRINT("HELLO HELLO HELLO HELLO")
+print ("java welcome");
+print ("hello my frend");
+print("Hello world");
+print("Hello my dear friend");
+PRINT("HELLO HELLO");
+PRINT("HELLO HELLO HELLO");
+PRINT("HELLO HELLO HELLO HELLO");
