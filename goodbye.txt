@@ -1,4 +1,7 @@
-print("goodbye")
-print("natural goodbue")
-print("selem dustym")
-print("sau bul")
+print("goodbye");
+print("natural goodbue");
+PRINT("DOSVIDOS");
+PRINT("POKA");
+print("selem dustym");
+print("sau bul");
+
